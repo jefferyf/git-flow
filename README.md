@@ -6,12 +6,13 @@ Sample Repo for Git Work Flow
 1. Clone the repo
 1. Cut a feature branch for your Work
 1. Do your work locally
-1. Commit your work and push to remote
 1. Create a PR and tag a reviewer
 1. Confer with reviewer, address issues, get approval
-1. Merge PR
+1. Merge Pull Request
 
 ### After Merge
 
 1. `git fetch` && `git pull`
 1. Delete local and remote branch after merge
+
+### Then Grab a new ticket in Jira and Cut a new feature branch and start a new process
